@@ -22,7 +22,7 @@ def circulate():
 ~~~
 
 ## Output:
-![GitHub Logo](ABHI_CIR.png)
+![GitHub Logo](CIRCULATE.png)
 
 ## Result:
 PROGRAM FINISHED SUCCESSFULLY.
